@@ -4,7 +4,7 @@
 <a href="#"><img src="https://image.ondacero.es/clipping/cmsimages01/2013/02/21/AFD21B88-14D7-48E6-8671-B4D366CECA66/27.jpg" height="300" width="100%" /></a>
 </p>
 
-Hola, mi nombre es Elías, 22 años con 5 de experiencia.
+Hola, mi nombre es Elías, 22 años.
 me gusta usar Linux y realizar pruebas de penetracion
 
 ### Estoy interesado en:
