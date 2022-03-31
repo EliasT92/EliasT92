@@ -1,27 +1,16 @@
 
-<h3 align="center">Hey there, I'm Zatiel</a> <img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" width="28" /> </h3>
+<h3 align="center">Hola, soy Elías</a> <img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" width="28" /> </h3>
 <p align="center">
-<a href="#"><img src="https://image.ondacero.es/clipping/cmsimages01/2013/02/21/AFD21B88-14D7-48E6-8671-B4D366CECA66/27.jpg" height="100%" width="100%" /></a>
+<a href="#"><img src="https://image.ondacero.es/clipping/cmsimages01/2013/02/21/AFD21B88-14D7-48E6-8671-B4D366CECA66/27.jpg" height="200" width="600" /></a>
 </p>
 
 Hello, My name is Zatiel, 29 years with 5 years of experience.
 I love linux, but I am interested in Arch Linux, I'm a
 web developer, I love the linux terminal, because it, I develop cli applications for linux
 
-
-### My preferred tecnologies are:
-
-- Javascript (Node.js)
-
 ### I am interested in:
 
 - Arch Linux (linux operative system)
-
-### Stats
-[![Zatiel's stats](https://github-readme-stats.vercel.app/api?username=callmezatiel&show_icons=true&theme=react)](https://github.com/callmezatiel/github-readme-stats)
-
-### Most used languages
-![Zatiel's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=callmezatiel&theme=react&layout=compact&hide=HTML)
 
 ### Interests
 
