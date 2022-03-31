@@ -11,6 +11,7 @@ me gusta usar Linux y realizar pruebas de penetracion
 
 - Kali linux
 - Pentesting
+- Desarrollo de Aplicaciones de Escritorio
 
 ### Intereses
 
