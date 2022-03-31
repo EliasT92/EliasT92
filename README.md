@@ -1,7 +1,7 @@
 
 <h3 align="center">Hola, soy Elías</a> <img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" width="28" /> </h3>
 <p align="center">
-<a href="#"><img src="https://image.ondacero.es/clipping/cmsimages01/2013/02/21/AFD21B88-14D7-48E6-8671-B4D366CECA66/27.jpg" height="200" width="600" /></a>
+<a href="#"><img src="https://image.ondacero.es/clipping/cmsimages01/2013/02/21/AFD21B88-14D7-48E6-8671-B4D366CECA66/27.jpg" height="80%" width="100%" /></a>
 </p>
 
 Hello, My name is Zatiel, 29 years with 5 years of experience.
